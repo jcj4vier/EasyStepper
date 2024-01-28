@@ -1,5 +1,16 @@
-autoHome	KEYWORD1
+# Syntax Coloring Map for EasyStepper Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+EasyStepper	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+easySetup	KEYWORD2
+returnToHome	KEYWORD2
 stepperMove	KEYWORD2
-easySetup	KEYWORD3
-returnToHome	KEYWORD4
-EasyStepper	KEYWORD5
+#######################################
+# Constants (LITERAL1)
+#######################################
