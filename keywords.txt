@@ -1,0 +1,5 @@
+autoHome	KEYWORD1
+stepperMove	KEYWORD2
+easySetup	KEYWORD3
+returnToHome	KEYWORD4
+EasyStepper	KEYWORD5
